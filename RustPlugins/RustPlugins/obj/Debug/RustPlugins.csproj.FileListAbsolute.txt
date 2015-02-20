@@ -1,0 +1,5 @@
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\RustPlugins.dll
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\RustPlugins.pdb
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\obj\Debug\RustPlugins.csprojResolveAssemblyReference.cache
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\obj\Debug\RustPlugins.dll
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\obj\Debug\RustPlugins.pdb
