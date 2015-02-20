@@ -19,3 +19,10 @@ C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Oxide.Ext.Rust.pdb
 C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Oxide.Ext.Unity.pdb
 C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Moq.xml
 C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\nunit.framework.xml
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\RustPlugins.dll.config
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Ploeh.AutoFixture.AutoMoq.dll
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Ploeh.AutoFixture.dll
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Ploeh.SemanticComparison.dll
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Ploeh.AutoFixture.xml
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Ploeh.AutoFixture.AutoMoq.xml
+C:\Repos\RustPlugins\RustPlugins\RustPlugins\bin\Debug\Ploeh.SemanticComparison.xml
